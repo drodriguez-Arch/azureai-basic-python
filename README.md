@@ -103,6 +103,8 @@ If you're not using one of the above options for opening the project, then you'l
 
 4. Continue with the [deploying steps](#deploying).
 
+5. For detailed configuration steps, refer to the [Configuration Guide](docs/configuration_guide.md).
+
 ## Deploying
 
 Once you've opened the project in [Codespaces](#github-codespaces), in [Dev Containers](#vs-code-dev-containers), or [locally](#local-environment), you can deploy it to Azure.
